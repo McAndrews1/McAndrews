@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class EWE
+public class EWE extends Tontofeo
 {
     // instance variables - replace the example below with your own
     private int x;
