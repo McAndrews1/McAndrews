@@ -8,7 +8,7 @@
 public class VivaVox
 {
     // instance variables - replace the example below with your own
-    private int x;
+    private int x;qq
 
     /**
      * Constructor for objects of class VivaVox
