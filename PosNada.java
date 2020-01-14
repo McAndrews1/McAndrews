@@ -18,9 +18,21 @@ public class PosNada
      * @param  y  a sample parameter for a method
      * @return    the sum of x and y
      */
-    public static void sampleMethod()
+    public static void unluky()
     {
         // put your code here
         System.out.println("Tonto el que lo lea. XD");
+    }
+    
+    /**
+     * An example of a method - replace this comment with your own
+     *
+     * @param  y  a sample parameter for a method
+     * @return    the sum of x and y
+     */
+    public static void eliminar()
+    {
+        // put your code here
+        System.out.println("Tu VivaVox se ha eliminando. XD");
     }
 }
