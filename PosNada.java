@@ -22,6 +22,7 @@ public class PosNada
     {
         // put your code here
         System.out.println("Tonto el que lo lea. XD");
+        System.out.println("Tonto el que lo lea2. XD");
     }
     
     /**
