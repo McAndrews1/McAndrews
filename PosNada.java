@@ -36,4 +36,21 @@ public class PosNada
         // put your code here
         System.out.println("Tu VivaVox se ha eliminando. XD");
     }
+    
+    public static void ponerEnMarcha()
+    {
+        // put your code here
+        for(int i = 0; i < 25; i++)
+        {
+            System.out.println("Tu VivaVox se ha eliminando. XD");
+            System.out.println("--------------------------------");
+        }
+        
+        
+        for(int i = 0; i < 25; i++)
+        {
+            System.out.println("Ya me joderia.");
+            System.out.println("--------------");
+        }
+    }
 }
