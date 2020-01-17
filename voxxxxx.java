@@ -3,7 +3,7 @@
  * Esta clase es completamente inutil,pero si miras, pagas.
  * 
  * @author (Boki) 
- * @version (versión 10€ por mirar)
+ * @version (versión 10€ por mirar http://paypal.me/bokigod)
  */
 public class voxxxxx
 {
@@ -23,6 +23,7 @@ public class voxxxxx
      * Este método no hace nada y es completamente inutil
      * 
      * @param  y   introduce un valor int que no sirve para nada
+     * @see MeDebes10Euros
      * @return     devuelve x + y, aunque sin estar inicializada será inutil.
      */
     public int sampleMethod(int y)
