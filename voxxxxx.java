@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class voxxxxx here.
+ * Esta clase es completamente inutil,pero si miras, pagas.
  * 
  * @author (Boki) 
  * @version (versión 10€ por mirar)
@@ -20,7 +20,7 @@ public class voxxxxx
     }
 
     /**
-     * An example of a method - replace this comment with your own
+     * Este método no hace nada y es completamente inutil
      * 
      * @param  y   introduce un valor int que no sirve para nada
      * @return     devuelve x + y, aunque sin estar inicializada será inutil.
