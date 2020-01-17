@@ -28,6 +28,9 @@ public class MeDebes10Euros
     public void sampleMethod(int y)
     {
         // put your code here
-        System.out.println("Si lees esto debes 10€ a boki");
+        for (int i = 0; i < y; i++)
+        {
+            System.out.println("Si lees esto debes 10€ a boki");
+        }
     }
 }
