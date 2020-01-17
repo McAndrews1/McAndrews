@@ -2,8 +2,8 @@
 /**
  * Write a description of class voxxxxx here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Boki) 
+ * @version (versión 10€ por mirar)
  */
 public class voxxxxx
 {
@@ -11,7 +11,7 @@ public class voxxxxx
     private int x;
 
     /**
-     * Constructor for objects of class voxxxxx
+     * Es el construcctor de la clase
      */
     public voxxxxx()
     {
@@ -22,8 +22,8 @@ public class voxxxxx
     /**
      * An example of a method - replace this comment with your own
      * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
+     * @param  y   introduce un valor int que no sirve para nada
+     * @return     devuelve x + y, aunque sin estar inicializada será inutil.
      */
     public int sampleMethod(int y)
     {
