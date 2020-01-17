@@ -2,7 +2,7 @@
 * Esta clase es completamente inutil,pero si miras, pagas.
 * 
 * @author (Boki) 
-* @version (versión 10€ por mirar http://paypal.me/bokigod)
+* @version (versión 10€ por mirar https://paypal.me/bokigod)
 */
 public class voxxxxx
 {
