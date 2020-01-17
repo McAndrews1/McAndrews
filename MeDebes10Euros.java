@@ -9,6 +9,7 @@ public class MeDebes10Euros
 {
     // instance variables - replace the example below with your own
     private int x;
+    private Unlucky borja;
 
     /**
      * Constructor for objects of class MeDebes10Euros
@@ -20,10 +21,12 @@ public class MeDebes10Euros
     }
 
     /**
-     * An example of a method - replace this comment with your own
+     * Este metodo sirve para sacar por pantalla un mensaje las veces que se indica 
+     * con el parametro de entrada. 
      * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
+     * @param  y   Número de veces que se va a mostrar el mensaje por pantalla.
+     * @return     No devuelve nada. 
+     * @see Unlucky
      */
     public void sampleMethod(int y)
     {
@@ -32,5 +35,6 @@ public class MeDebes10Euros
         {
             System.out.println("Si lees esto debes 10€ a boki");
         }
+        borja.sampleMethod(5);
     }
 }
