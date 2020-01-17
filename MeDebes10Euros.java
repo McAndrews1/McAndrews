@@ -1,6 +1,7 @@
 
 /**
- * Write a description of class MeDebes10Euros here.
+ * Esta es la descripción pero esta vacia porque no tengo ni idea de como funciona 
+ * la clase porque no es mia
  * 
  * @author (your name) 
  * @version (a version number or a date)
